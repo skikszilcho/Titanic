@@ -3,9 +3,8 @@ title: Research Challenge 1
 published: true
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~ or `keyword`.
 
-[Link to another page](another-page).
+[Research Challenge 2](another-page).
 
 
 # [](#Challenge-1)Challenge 1
