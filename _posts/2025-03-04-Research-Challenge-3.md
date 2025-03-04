@@ -4,7 +4,11 @@ published: true
 ---
 
 
+[Research Challenge 1](https://skikszilcho.github.io/Titanic/Research-Challenge-1).
+
 [Research Challenge 2](https://skikszilcho.github.io/Titanic/Research-Challenge-2).
+
+[Research Challenge Bonus](https://skikszilcho.github.io/Titanic/Research-Challenge-Bonus).
 
 Getting familiar with ML basics
 
