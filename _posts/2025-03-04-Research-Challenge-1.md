@@ -4,7 +4,7 @@ published: true
 ---
 
 
-[Research Challenge 2](another-page).
+[Research Challenge 2]([another-page](https://github.com/skikszilcho/Titanic/blob/master/_posts/2025-03-04-Research-Challenge-2.md)).
 
 
 # [](#Challenge-1)Challenge 1
