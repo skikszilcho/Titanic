@@ -22,7 +22,7 @@ Initially, some assumptions/understandings are established:
 > Any additional cable required above the original required cable will cost $450 per meter
 > The moon is spherical
 
-Following the establishment of a common understanding, to solve the given problem, the circumference of the moon is calculated by `\( 2π(r_moon)^2 = 2 * π * (1740 * 1000) = Circumference_original \)`. While the new circumference `\( Circumference_New \)`, after adjusting for the cable according to the demands of the Democrats, is calculated similarly to the original circumference with the `\( (1740 * 1000) \)` being changed to `\( (1740 * 1000 + 2) \)`. This results in initially 10932742.43 meters of cable required, however, following the demands of the Democrats, 10932755.0 meters of cable would be required. Therefore `(\ Cost = $450(Circumference_new - Circumference_original) = $5656.50 \)`. The `python` code is given below:
+Following the establishment of a common understanding, to solve the given problem, the circumference of the moon is calculated by `$$\( 2π(r_moon)^2 = 2 * π * (1740 * 1000) = Circumference_original \)$$`. While the new circumference `\( Circumference_New \)`, after adjusting for the cable according to the demands of the Democrats, is calculated similarly to the original circumference with the `\( (1740 * 1000) \)` being changed to `\( (1740 * 1000 + 2) \)`. This results in initially 10932742.43 meters of cable required, however, following the demands of the Democrats, 10932755.0 meters of cable would be required. Therefore `(\ Cost = $450(Circumference_new - Circumference_original) = $5656.50 \)`. The `python` code is given below:
 
 ```python
 # Calculation of extra cable to be payed for
