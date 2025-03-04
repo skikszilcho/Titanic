@@ -4,7 +4,7 @@ published: true
 ---
 
 
-[Research Challenge 3](https://github.com/skikszilcho/Titanic/blob/master/_posts/2025-03-04-Research-Challenge-3.md).
+[Research Challenge 3](https://skikszilcho.github.io/Titanic/Research-Challenge-3).
 
 There should be whitespace between paragraphs.
 
