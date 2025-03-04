@@ -11,7 +11,7 @@ Getting familiar with ML basics
 
 # [](#Challenge-3)Challenge 3
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history. This dataset is one of the first datasets introduced to any analyst in Big Data sphere and also features regularly in computational prediction competitions on [Kaggle][https://www.kaggle.com/datasets/vinicius150987/titanic3]. On April 15, 1912, during her maiden voyage from the UK to US, the widely considered "unsinkable" RMS Titanic sank after colliding with an iceberg. The lack of sufficient lifeboats for everyone resulted in the death of 1502 out of 2224 passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class. The analytical tool, Python, was analyse the data and obtain usuable insights.
+The sinking of the Titanic is one of the most infamous shipwrecks in history. This dataset is one of the first datasets introduced to any analyst in Big Data sphere and also features regularly in computational prediction competitions on [Kaggle](https://www.kaggle.com/datasets/vinicius150987/titanic3]). On April 15, 1912, during her maiden voyage from the UK to US, the widely considered "unsinkable" RMS Titanic sank after colliding with an iceberg. The lack of sufficient lifeboats for everyone resulted in the death of 1502 out of 2224 passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class. The analytical tool, Python, was analyse the data and obtain usuable insights.
 
 ## [](#Cleaning-the-Data)Cleaning the Data
 
@@ -93,6 +93,28 @@ While the summary statistics for the dataset to be used for analysis is:
 
 
 ## [](#Analysis-Results)Analysis Results
+
+This is the results of the analysis done on the Titanic datasets and the insights gained.
+
+### [](#Passenger-Mortality-per-Class-&-by-Gender)Passenger Mortality per class & by Gender
+
+![Differences in Survival Rate Per Passenger Class](https://github.com/skikszilcho/Titanic/blob/master/_posts/MortalityDifferencesperclass.png)
+
+Contradictory to Class 2 & 3, a greater number of passengers in Class 1 who survived were greater than the number of passengers that died. The difference in the number of passengers who survived is greatest in Class 3, with more passengers dying than surviving, and least in Class 2. Similarly to 3rd Class, 2nd Class also saw more passengers dying than surviving. A further analysis was conducted to observe the split in mortality between the genders.
+
+![Mortality Differences Per Gender](https://github.com/skikszilcho/Titanic/blob/master/_posts/PassengerSurvivalbySex.png)
+
+![Mortality Differences Between Genders Per Class](https://github.com/skikszilcho/Titanic/blob/master/_posts/PassengerMortalitybySexperClass.png)
+
+
+In general, a greater number of females survived compared to the number of males who survived. Males indicated a greater mortality, or the difference in the number of passengers who survived and died, compared to females. In the `Mortality Differences Between Genders Per Class` diagram, the genders are outlined by the same colour, while the differences between surviving and dying were indicated using different linestyles. Contrary to what was seen in the `Differences in Survival Rate Per Passenger Class`, the number of males from 1st class who died is greater than the number that survived. However, the mortality of this class was the lowest and kept increasing with class number. The 1st Class results observed in the `Mortality Differences Between Genders Per Class` were offset by the number of females who survived outweighing the number of females who died, and oppositely to males, the number of females who survived decreased with consecutive classes, with 3rd Class having a greater number of females who died compared to those who survived. However, the difference between the number of female survivors in 3rd Class is the least, and 1st class being the least. First Class, for females, had the highest survival rate and lowest death rate.
+
+### [](#Passenger-Distribution-by-Age-&-Gender)Passenger Distribution by Age & Gender
+
+![Age Range Distribution Per Passenger Class](https://github.com/skikszilcho/Titanic/blob/master/_posts/AgeRangeDistributionperClass.png)
+
+Aside from 1st Class passengers, the passengers in the other classes saw the greatest number of passengers in the 14-28 range, and then secondly in the 28-43 range. This especially the case for 3rd Class Passengers. First Class, however, saw the greater majority of passengers in the 28-43 range, and secondly in the 43-57 age range.
+
 
 ```js
 // Javascript code with syntax highlighting.
