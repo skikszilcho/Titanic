@@ -4,7 +4,7 @@ published: true
 ---
 
 
-[Research Challenge 1](https://github.com/skikszilcho/Titanic/blob/master/_posts/2025-03-04-Research-Challenge-1.md).
+[Research Challenge 1](https://skikszilcho.github.io/Titanic/Research-Challenge-1).
 
 
 # [](#The-Uncharted-Island-Puzzle)The Uncharted Island Puzzle
