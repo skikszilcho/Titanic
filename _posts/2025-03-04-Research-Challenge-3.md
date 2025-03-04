@@ -111,9 +111,16 @@ In general, a greater number of females survived compared to the number of males
 
 ### [](#Passenger-Distribution-by-Age-&-Gender)Passenger Distribution by Age & Gender
 
+#### [](#The-Distribution-of-Passenger-Age-By-Class)The Distribution of Passenger Age For Each Class
+
 ![Age Range Distribution Per Passenger Class](https://github.com/skikszilcho/Titanic/blob/master/_posts/AgeRangeDistributionperClass.png)
 
-Aside from 1st Class passengers, the passengers in the other classes saw the greatest number of passengers in the 14-28 range, and then secondly in the 28-43 range. This especially the case for 3rd Class Passengers. First Class, however, saw the greater majority of passengers in the 28-43 range, and secondly in the 43-57 age range.
+Aside from 1st Class passengers, the passengers in the other classes saw the greatest number of passengers in the 14-28 range, and then secondly in the 28-43 range. This especially the case for 3rd Class Passengers. First Class, however, saw the greater majority of passengers in the 28-43 range, and secondly in the 43-57 age range. Below, the age range distribution per class for the passengers that survived is shown. The age range 14-43 saw the greatest number of survivors, with the exception of 1st Class, the differences in the number of survivors in the 2nd & 3rd Class is not that great compared to the 0-14 age range.
+
+![Age Range Distribution of Passengers Who Survived Per Class](https://github.com/skikszilcho/Titanic/blob/master/_posts/SurvivedAgeRangeDistributionperClass.png)
+
+
+#### [](#The-Age-Distribution-of-Male-Passengers-in-3rd-Class)The Age Distribution of Male Passenger in 3rd Class
 
 
 ```js
