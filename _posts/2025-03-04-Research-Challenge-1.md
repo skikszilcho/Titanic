@@ -5,7 +5,9 @@ published: true
 
 
 [Research Challenge 2](https://skikszilcho.github.io/Titanic/Research-Challenge-2).
+
 [Research Challenge 3](https://skikszilcho.github.io/Titanic/Research-Challenge-3).
+
 [Research Challenge Bonus](https://skikszilcho.github.io/Titanic/Research-Challenge-Bonus).
 
 
