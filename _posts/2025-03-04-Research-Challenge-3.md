@@ -122,6 +122,21 @@ Aside from 1st Class passengers, the passengers in the other classes saw the gre
 
 #### [](#The-Age-Distribution-of-Male-Passengers-in-3rd-Class)The Age Distribution of Male Passenger in 3rd Class
 
+Given below is the `Age Distribution of Male Passengers in 3rd Class`, which indicates the split of males in 3rd class by age, and the `Age Distribution of Male Passengers from 3rd Class Who Survived`. The former diagram appears to be positively skewed, which correlates with the fact that greater economic success is more likely reached in the later years, which would afford them the opportunity to afford the tickets for more luxurious classes (i.e. 2nd & 1st Classes). This is seen in the `Age Range Distribution per Passenger Class` diagram where there are more passengers in the 28-57 age ranges. This is particularly true for males during that time. Based on both the distribution of males in 3rd Class diagrams, approximately 15% of the males in the 14-43 range from 3rd Class survived, and for males in the 0-14 age range the survival rate is alsmost double. 
+
+![Age Distribution of Male Passengers in 3rd Class](https://github.com/skikszilcho/Titanic/blob/master/_posts/MaleAgeDistributionin3rdClass.png)
+
+
+![Age Distribution of Male Passengers from 3rd Class Who Survived](https://github.com/skikszilcho/Titanic/blob/master/_posts/SurvivedMaleAgeDistributionin3rdClass.png)
+
+
+#### [](#The-Survival-Distribution-of-Passenger-By-Class-&-Sex)The Distribution of Passengers Who Survived For by Sex For Each Class
+
+Hearing of the tragedy, the first comment you hear when the discussion of the lifeboats come up is that women and children were first. Based on the diagrams that follow below, and assuming that a child is a passenger under the age of 15, this is indeed reflected. Only the male group has more passengers dead than those that survived, the differences between the number of dead passengers and passengers that survived is the greatest for this group as well. The number of female passengers who survived far outsrips the number of passengers who died, while there is very little between the number of children who survived compared to the number of children passengers who died. However, for children passengers, greater children passengers survived than thos that died for 1st & 2nd Classes.
+
+![Passengers Mortality by Sex](https://github.com/skikszilcho/Titanic/blob/master/_posts/PassangerMortalitybySexperClass.png)
+
+![Passenger Mortality Distribution Across Sex Histogram]()
 
 ```js
 // Javascript code with syntax highlighting.
