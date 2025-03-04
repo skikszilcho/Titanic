@@ -41,6 +41,6 @@ The way this open-ended question is structured, answered and formatted offers in
 
 ### Large image
 
-![Lord of the Flies Island & Novel]([https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95da6e9d-1bb3-44df-843e-a7decb5cbc16_2912x2096.png])
+![Lord of the Flies Island & Novel](https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95da6e9d-1bb3-44df-843e-a7decb5cbc16_2912x2096.png)
 
 
