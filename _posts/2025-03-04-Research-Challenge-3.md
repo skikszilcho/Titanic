@@ -3,9 +3,8 @@ title: Research Challenge 3
 published: true
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](another-page).
+[Research Challenge 2](another-page).
 
 Getting familiar with ML basics
 
