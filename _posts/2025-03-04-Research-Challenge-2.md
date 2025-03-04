@@ -1,5 +1,5 @@
 ---
-title: Research Challenge 2: The Puzzle
+title: Research Challenge 2 -  The Puzzle
 published: true
 ---
 
