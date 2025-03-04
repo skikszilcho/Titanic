@@ -17,6 +17,7 @@ You are the leader of a small team that has crash-landed on an uncharted island.
 > A broken radio (possibly repairable)
 > A map that only shows the coastline but no details of the interior
 
+
 You also have six team members, each with different strengths and weaknesses:
 
 > An experienced biologist (weak and injured, but knowledgeable about plants and animals)
