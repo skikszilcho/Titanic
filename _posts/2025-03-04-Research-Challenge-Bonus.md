@@ -4,6 +4,10 @@ published: true
 ---
 
 
+[Research Challenge 1](https://skikszilcho.github.io/Titanic/Research-Challenge-1).
+
+[Research Challenge 2](https://skikszilcho.github.io/Titanic/Research-Challenge-2).
+
 [Research Challenge 3](https://skikszilcho.github.io/Titanic/Research-Challenge-3).
 
 There should be whitespace between paragraphs.
