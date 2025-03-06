@@ -130,7 +130,7 @@ Given below is the `Age Distribution of Male Passengers in 3rd Class`, which ind
 ![Age Distribution of Male Passengers in 3rd Class](https://github.com/skikszilcho/Titanic/blob/7cde42480e6ace6d455fdb8dc590c24a4ba1efa9/_posts/MaleAgeDistributionin3rdClass.png)
 
 
-![Age Distribution of Male Passengers from 3rd Class Who Survived](https://github.com/skikszilcho/Titanic/blob/7cde42480e6ace6d455fdb8dc590c24a4ba1efa9/_posts/SurvivedMaleAgeDistributionin3rdClass.png)
+![Age Distribution of Male Passengers from 3rd Class Who Survived](https://uctcloud-my.sharepoint.com/:i:/r/personal/sbsits001_myuct_ac_za/Documents/Apps/SurvivedMaleAgeDistributionin3rdClass.png?csf=1&web=1&e=0Jvycv)
 
 
 #### [](#The-Survival-Distribution-of-Passenger-By-Class-&-Sex)The Distribution of Passengers Who Survived For by Sex For Each Class
