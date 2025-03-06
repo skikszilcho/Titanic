@@ -20,15 +20,13 @@ Trump, having recently introduced his Space Force 🚀, decides he wants to lay 
 Initially, some assumptions/understandings are established:
 
 > The moon has a radius approximate to 1740 kilometers.
->The cable that the Space Force wants to lay will be layed around the entire circumference of the moon.
+>The cable that the Space Force wants to lay will be layed around the entire circumference of the moon. The cable will be layed once.
 > The demand from the Democrats requires that the 2 meters be added to the initial radius used for the original cable requirement calculations
 > Any additional cable required above the original required cable will cost $450 per meter
 > The moon is spherical
 
-Following the establishment of a common understanding, to solve the given problem, the circumference of the moon is calculated by 
-$$\( 2π(r~{moon})^2 = 2 * π * (1740 * 1000) = Circumference_{original} \)$$. 
-While the new circumference $$\( Circumference_{New} \)$$, after adjusting for the cable according to the demands of the Democrats, is calculated similarly to the original circumference with the $$\( (1740 * 1000) \)$$ being changed to $\( (1740 * 1000 + 2) \)$. This results in initially `10932742.43 meters` of cable required, however, following the demands of the Democrats, `10932755.0 meters` of cable would be required. Therefore 
-$$(\ Cost = 450(Circumference_{new} - Circumference_{original}) \)$$, resulting in a cost of `$5656.5`. The `python` code is given below:
+Following the establishment of a common understanding, to solve the given problem, the circumference of the moon is calculated using the cricumference of a circle equation and the approximate radius of the moon 
+While the new circumference, after adjusting for the cable according to the demands of the Democrats, is calculated similarly to the original circumference with the `(1740 * 1000)` being changed to `(1740 * 1000 + 2)`. This results in initially `10932742.43 meters` of cable required, however, following the demands of the Democrats, `10932755.0 meters` of cable would be required. Therefore, the resulting extra cost of the cable is calculated by multiplying the difference between the new and old circumference with the cost of cable per meter. This results in an extra cost of `$5656.5`. The `python` code for these calculations is given below:
 
 ```python
 # Calculation of extra cable to be payed for
